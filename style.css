@@ -1,4 +1,11 @@
 body {
+  header {text-align: center;}
+  a:link {padding-left: 10px; padding-right: 10px; background-color: lightgray;}
+  figcaption {font-size: small; text-align: center;}
+  div {float: left;}
+  div {text-align: center;}
+  div {background-color: red;}
+  div {margin: auto; width: 25%;}
   width: 100%;
   height: 100%;
   margin: 0;
